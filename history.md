@@ -34,16 +34,16 @@
 *     git merge --continue
 *     git merge release
 *     git remote add origin https://github.com/Nashandra/geometric_lib.git
-*  cd geometric_lib/
-*  git remote add origin https://github.com/Nashandra/geometric_lib.git
-*  git remote add origin/main https://github.com/Nashandra/geometric_lib.git
-*  git branch -M main
-*  git push -u origin main
-*  git push -u origin/main main
-*  echo history.md
-*  git status
-*  echo > history.md
-*  cd history.md/
-*  cd history.md
-*  git status
-*  history
+*     cd geometric_lib/
+*     git remote add origin https://github.com/Nashandra/geometric_lib.git
+*     git remote add origin/main https://github.com/Nashandra/geometric_lib.git
+*     git branch -M main
+*     git push -u origin main
+*     git push -u origin/main main
+*     echo history.md
+*     git status
+*     echo > history.md
+*     cd history.md/
+*     cd history.md
+*     git status
+*     history
